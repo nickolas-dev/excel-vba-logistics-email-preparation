@@ -1,0 +1,8 @@
+src/vba/**/*.bas text eol=lf
+src/vba/**/*.cls text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.html text eol=lf
+*.xlsm binary
+*.xlsx binary
+*.png binary

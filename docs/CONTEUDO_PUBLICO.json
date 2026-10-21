@@ -1,0 +1,56 @@
+{
+  "workbooks": [
+    {
+      "file": "app/arquivos/ATRASO FUTURO.xlsx",
+      "sheets": [
+        "Export"
+      ],
+      "has_vba": false
+    },
+    {
+      "file": "app/arquivos/LOJAS COM MOROSIDADE NA DESCARGA.xlsx",
+      "sheets": [
+        "Export"
+      ],
+      "has_vba": false
+    },
+    {
+      "file": "app/arquivos/TABELA GERAL.xlsx",
+      "sheets": [
+        "Export"
+      ],
+      "has_vba": false
+    },
+    {
+      "file": "app/BD_McD.xlsx",
+      "sheets": [
+        "BD_Contatos",
+        "BD_Restaurantes"
+      ],
+      "has_vba": false
+    },
+    {
+      "file": "app/CD e NOMENCLATURAS.xlsm",
+      "sheets": [
+        "Planilha1",
+        "Planilha2"
+      ],
+      "has_vba": false
+    },
+    {
+      "file": "app/Comunicados_Logisticos.xlsm",
+      "sheets": [
+        "Export",
+        "Motivos"
+      ],
+      "has_vba": true
+    }
+  ],
+  "xlsx_xlsm_count": 6,
+  "nonfictional_email_hits": 0,
+  "original_person_or_network_path_markers": 0,
+  "source_send_calls": 0,
+  "private_snapshots_and_logs_included": false,
+  "outlook_profiles_and_signatures_included": false,
+  "legacy_technical_identifiers_preserved": true
+}

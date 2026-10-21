@@ -1,0 +1,38 @@
+[
+  {
+    "workbook": "app/Comunicados_Logisticos.xlsm",
+    "file": "src/vba/principal/EstaPastaDeTrabalho.cls",
+    "sha256": "90fc29baecf6a4330559c3289bdbb150b68772c5881286e741b1db06bcdbd01a",
+    "lines": 10
+  },
+  {
+    "workbook": "app/Comunicados_Logisticos.xlsm",
+    "file": "src/vba/principal/Planilha1.cls",
+    "sha256": "904a408fc5d0144a946fceea516279723bf1152db5a5ffdfee2e6d726f972366",
+    "lines": 8
+  },
+  {
+    "workbook": "app/Comunicados_Logisticos.xlsm",
+    "file": "src/vba/principal/Planilha2.cls",
+    "sha256": "7e976156299c6c1bb49ca584e958363365c5c15e24ec7acfc0da86074ebc5033",
+    "lines": 8
+  },
+  {
+    "workbook": "app/Comunicados_Logisticos.xlsm",
+    "file": "src/vba/principal/Módulo1.bas",
+    "sha256": "7399026dab0a49f5948fe47c79607f384edb2e24302e0acfcbea3681a77a3cb3",
+    "lines": 1521
+  },
+  {
+    "workbook": "app/Comunicados_Logisticos.xlsm",
+    "file": "src/vba/principal/ModGlobais.bas",
+    "sha256": "c38c4433d114750eae1c223a42cc2f07c2c3290e4ac99c4287fbcd940a8270bb",
+    "lines": 4
+  },
+  {
+    "workbook": "app/Comunicados_Logisticos.xlsm",
+    "file": "src/vba/principal/modPortfolio.bas",
+    "sha256": "d6d786c77dad0d50e821307147c3777aeb6cf52a65ec9b9986b8f42ddb528e87",
+    "lines": 83
+  }
+]

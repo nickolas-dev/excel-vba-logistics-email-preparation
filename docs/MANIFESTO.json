@@ -1,0 +1,151 @@
+{
+  "scope": "Three fictional logistics email-preparation workflows; Outlook .Display and manual review.",
+  "interface_language": "pt-BR",
+  "documentation_languages": [
+    "en-GB",
+    "pt-BR"
+  ],
+  "sha256_excludes_manifest_itself": true,
+  "files": [
+    {
+      "path": ".gitattributes",
+      "sha256": "5ebc390b8ac5a8251aaf993b77ca076247cdee318eb8d64cd9811549bda64757"
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "2554aa26d9f6ac3a7dd96c04d13ff6e8d4e0d454c0a35ce716183c18a6074291"
+    },
+    {
+      "path": "app/arquivos/ATRASO FUTURO.xlsx",
+      "sha256": "39002a935f96456755ac8e55e9af58ec0ed0d8e6864cc2bbc4f524b30819b441"
+    },
+    {
+      "path": "app/arquivos/LOJAS COM MOROSIDADE NA DESCARGA.xlsx",
+      "sha256": "440fcc6d9cc46052d530aac247803168ef03cedbe30e7b4668a1fa3942056982"
+    },
+    {
+      "path": "app/arquivos/TABELA GERAL.xlsx",
+      "sha256": "16235726ce5e0540faec9670d8686e4419898dd635beb19b69f67b0a0d0de1ff"
+    },
+    {
+      "path": "app/BD_McD.xlsx",
+      "sha256": "9cbe24c0b25338316395e666867e99d17e897005aabd12ecabeb7355e0b3d58a"
+    },
+    {
+      "path": "app/CD e NOMENCLATURAS.xlsm",
+      "sha256": "4c6243ee57d1b26e5ae114f650c9775eea712658e7aadd902bc14e581e3aeacf"
+    },
+    {
+      "path": "app/Comunicados_Logisticos.xlsm",
+      "sha256": "e794356f4a9a773ad4d1338cb45d34f9666022273ba5f35f77d0deafe70b3645"
+    },
+    {
+      "path": "docs/CONTEUDO_PUBLICO.json",
+      "sha256": "0d189159eb29519981675493c192ae800a6835c6918be9698b6aa4548b9324f9"
+    },
+    {
+      "path": "docs/MAPA_PACOTE.md",
+      "sha256": "b9e63d36cb86babe1679690bcf1f3e4bd63b4799d907568f6e38294bafc23c7a"
+    },
+    {
+      "path": "docs/previews/atraso-z02.png",
+      "sha256": "bb8b0c3e2150c986b784b0c2dceec0d55daf943fce83e3875d81b885dfe0e42e"
+    },
+    {
+      "path": "docs/previews/mobile-al005m.png",
+      "sha256": "3ae8630332f5ab0f94f7ca6e251bc80a29d01443e40b1d06af215903cf32b698"
+    },
+    {
+      "path": "docs/previews/morosidade-z01.png",
+      "sha256": "5e1f2817f4b077294174b517eface2321e474e618b98e3e6db361d5af09db9c9"
+    },
+    {
+      "path": "docs/REVISAO_CONTEUDO_PUBLICO.md",
+      "sha256": "2554b3365f224241d8b17293752bfbdc655ef76832d62ee5c0b7ef13dcea2a76"
+    },
+    {
+      "path": "docs/VALIDACAO.json",
+      "sha256": "9e67b9fb5dcfa5d417ffc2835340baa0da7e47c2c50bc60f2464b0d739d2a06c"
+    },
+    {
+      "path": "docs/VALIDACAO.md",
+      "sha256": "4ae06335f905638b7fc492bb37761488e7d4654d0e1820827efa10182f4eedd5"
+    },
+    {
+      "path": "examples/expected-output/atraso-z02.html",
+      "sha256": "90bbdb9c256d31390bc73c7737058c7c68a3561fb27262414be767ec2e430d33"
+    },
+    {
+      "path": "examples/expected-output/atraso-z03.html",
+      "sha256": "f7cb3969b63d241d797a63b2e1a92e180cc2d70a0ec5c3f716ccd6a22fb47924"
+    },
+    {
+      "path": "examples/expected-output/comunicados.json",
+      "sha256": "5dc1ba5c1c2ca08350774fe4e1a2c7233ec7cf28d9a8776be227690faf747d33"
+    },
+    {
+      "path": "examples/expected-output/mobile-al005m.html",
+      "sha256": "8e43030205dc9e1759219aa5c6dfd6a04805ec7e0e3224b94618b11597fbae3b"
+    },
+    {
+      "path": "examples/expected-output/mobile-np006m.html",
+      "sha256": "871f4ae05262b0eec12c674bfbe13ec1bbfb7e6670b4a2abdfe11045553c29c0"
+    },
+    {
+      "path": "examples/expected-output/morosidade-z00.html",
+      "sha256": "390384f6f2f2662f135242363a0316b6d6a4b8e942b788bea9157b51dbfd2d9c"
+    },
+    {
+      "path": "examples/expected-output/morosidade-z01.html",
+      "sha256": "ff17d83c41949187603c697f2c06ac3829a37c4262ffd77fbe0f2f196548527b"
+    },
+    {
+      "path": "examples/expected-output/README.md",
+      "sha256": "6882aff6a4f71f3c330027d59d108166f5aa43b69c2f48f2459e200674000672"
+    },
+    {
+      "path": "LEIA-ME.md",
+      "sha256": "04b2d0d44a710facdd7d7a1764b1757a3da2d1d3efaa6f0c5c440794ced8db12"
+    },
+    {
+      "path": "README.md",
+      "sha256": "00946345927a753954d89d5df69a874533b8477c5276ac0fd566be5281e0f41e"
+    },
+    {
+      "path": "README.pt-BR.md",
+      "sha256": "f395a31fd48563c78eb2733f7d55cb1824ea831c8e885cb65bd644b9732a8f06"
+    },
+    {
+      "path": "src/vba/INDICE.json",
+      "sha256": "d2d758dbbcd08254bea012302841072c73e4152bd0011457664661776efe101a"
+    },
+    {
+      "path": "src/vba/LEIA-ME.md",
+      "sha256": "ba95f038529d3531498d77ffc89edd79379c5b30d6315208baaad2dbe1a117bb"
+    },
+    {
+      "path": "src/vba/principal/EstaPastaDeTrabalho.cls",
+      "sha256": "90fc29baecf6a4330559c3289bdbb150b68772c5881286e741b1db06bcdbd01a"
+    },
+    {
+      "path": "src/vba/principal/ModGlobais.bas",
+      "sha256": "c38c4433d114750eae1c223a42cc2f07c2c3290e4ac99c4287fbcd940a8270bb"
+    },
+    {
+      "path": "src/vba/principal/modPortfolio.bas",
+      "sha256": "d6d786c77dad0d50e821307147c3777aeb6cf52a65ec9b9986b8f42ddb528e87"
+    },
+    {
+      "path": "src/vba/principal/Módulo1.bas",
+      "sha256": "7399026dab0a49f5948fe47c79607f384edb2e24302e0acfcbea3681a77a3cb3"
+    },
+    {
+      "path": "src/vba/principal/Planilha1.cls",
+      "sha256": "904a408fc5d0144a946fceea516279723bf1152db5a5ffdfee2e6d726f972366"
+    },
+    {
+      "path": "src/vba/principal/Planilha2.cls",
+      "sha256": "7e976156299c6c1bb49ca584e958363365c5c15e24ec7acfc0da86074ebc5033"
+    }
+  ]
+}

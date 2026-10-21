@@ -1,0 +1,56 @@
+{
+  "application": "app/Comunicados_Logisticos.xlsm",
+  "sample_report_date": "2026-10-19",
+  "source_application_version": "2.4.5",
+  "interface_language": "pt-BR",
+  "display_calls": 4,
+  "send_calls": 0,
+  "vba_source_files": 6,
+  "stores": [
+    "Z00",
+    "Z01",
+    "Z02",
+    "Z03",
+    "Z04",
+    "Z05"
+  ],
+  "restaurant_rows": 6,
+  "phone_rows": 12,
+  "cd_route_prefix_mappings": 3,
+  "simulation_messages_checked": 6,
+  "native_outlook_messages_checked": 6,
+  "native_test_messages_sent": 0,
+  "test_messages_closed_without_saving": true,
+  "scheduled_time_regression": {
+    "store": "Z01",
+    "scheduled": "2026-10-19 10:00",
+    "actual_arrival": "2026-10-19 10:30",
+    "alternative_arrival_test": "2026-10-19 12:15",
+    "scheduled_time_unchanged": true
+  },
+  "source_location_test": "Original application folder and a moved folder with spaces and accented characters; paths resolved and all three reports imported.",
+  "publication_package_location_test": {
+    "application": "app/Comunicados_Logisticos.xlsm",
+    "workbooks_opened_normally": 6,
+    "imports": [
+      {
+        "file": "LOJAS COM MOROSIDADE NA DESCARGA.xlsx",
+        "messages_prepared": 2
+      },
+      {
+        "file": "ATRASO FUTURO.xlsx",
+        "messages_prepared": 2
+      },
+      {
+        "file": "TABELA GERAL.xlsx",
+        "messages_prepared": 2
+      }
+    ],
+    "relative_paths_resolved": true,
+    "button_preserved": true,
+    "initial_output_empty": true,
+    "files_unchanged": true,
+    "outlook_executed_in_this_check": false
+  },
+  "additional_routines_validated": false
+}

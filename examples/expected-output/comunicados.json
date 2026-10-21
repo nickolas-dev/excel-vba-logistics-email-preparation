@@ -1,0 +1,54 @@
+{
+  "origin": "VBA message-construction validation with fictional inputs; native Outlook was checked separately.",
+  "includes_outlook_signature": false,
+  "messages": [
+    {
+      "input_file": "LOJAS COM MOROSIDADE NA DESCARGA.xlsx",
+      "subject": "MOROSIDADE - NE - RN001M - Z00 - 19/10/2026",
+      "to": "consultor.demo01@example.com;loja.z00@example.com",
+      "cc": "supervisor.demo01@example.com;transportadora.aurora@example.com;operacao@example.com; relacionamento@example.com",
+      "html_body": "<p>Prezados, boa tarde!</p><p>Nossa equipe chegou à loja <b>Z00</b> dentro do horário programado, porém a descarga ainda não foi finalizada.</p><p>Por gentileza, poderiam verificar?</p><p>• Loja: Z00<br>• Data e hora programados: 19/10/2026 10:00<br>• Data e hora da chegada do veículo: 19/10/2026 09:55<br>• Data e hora do início da descarga: 19/10/2026 10:05<br>• Total de volumes: 80 caixas<br>• Tempo de descarga programado: 01:00:00<br>• Tempo de descarga atual: <b>01:35:00 – MOROSIDADE</b></p><p>Para acompanhar o veículo em tempo real, <a href='https://example.com/rastreamento/rn001m'>clique aqui</a></p><p>Desde já, agradecemos a atenção e a colaboração.</p><p>Para dúvidas sobre a demonstração, entre em contato com <b>suporte@example.com</b> e informe a sigla da unidade. Todos os dados deste exemplo são fictícios.</p>",
+      "reference_html": "morosidade-z00.html"
+    },
+    {
+      "input_file": "LOJAS COM MOROSIDADE NA DESCARGA.xlsx",
+      "subject": "MOROSIDADE - PR - NP002M - Z01 - 19/10/2026",
+      "to": "consultor.demo02@example.com;loja.z01@example.com",
+      "cc": "supervisor.demo02@example.com;transportadora.vale@example.com;operacao@example.com; relacionamento@example.com",
+      "html_body": "<p>Prezados, boa tarde!</p><p>Nossa equipe chegou à loja <b>Z01</b> com atraso devido Problemas operacionais, porém a descarga ainda não foi finalizada.</p><p>Por gentileza, poderiam verificar?</p><p>• Loja: Z01<br>• Data e hora programados: 19/10/2026 10:00<br>• Data e hora da chegada do veículo: 19/10/2026 10:30<br>• Data e hora do início da descarga: 19/10/2026 10:40<br>• Total de volumes: 90 caixas<br>• Tempo de descarga programado: 01:00:00<br>• Tempo de descarga atual: <b>01:35:00 – MOROSIDADE</b></p><p>Para acompanhar o veículo em tempo real, <a href='https://example.com/rastreamento/np002m'>clique aqui</a></p><p>Desde já, agradecemos a atenção e a colaboração.</p><p>Para dúvidas sobre a demonstração, entre em contato com <b>suporte@example.com</b> e informe a sigla da unidade. Todos os dados deste exemplo são fictícios.</p>",
+      "reference_html": "morosidade-z01.html"
+    },
+    {
+      "input_file": "ATRASO FUTURO.xlsx",
+      "subject": "Previsão de entrega - NE - AL003M - Z02 - 19/10/2026",
+      "to": "gerente.demo01@example.com;consultor.demo03@example.com;loja.z02@example.com",
+      "cc": "supervisor.demo01@example.com;transportadora.horizonte@example.com;operacao@example.com; relacionamento@example.com",
+      "html_body": "<p>Prezados, boa tarde!</p><p>Informamos que o veículo que realizará a sua entrega não chegará dentro do horário programado.</p><p>Seguem mais detalhes e a previsão atualizada na tabela abaixo:</p><table border='1' style='border-collapse:collapse; text-align:center;'><tr style='background-color:#E26A23; font-weight:bold;'><td>LOJA</td><td>HORÁRIO PROGRAMADO</td><td>HORAS DE ATRASO</td><td>PREVISÃO ATUALIZADA</td><td>MOTIVO</td></tr><tr style='font-weight:bold;'><td>Z02</td><td>19/10/2026 14:00</td><td>00:45:00</td><td>19/10/2026 14:45</td><td>Problemas operacionais</td></tr></table><p>Realizamos tentativas de contato pelos números 0000000020, 0000000021, 00000002002, porém não obtivemos retorno até o momento.</p><p>Para acompanhar o veículo em tempo real, <a href='https://example.com/rastreamento/al003m'>clique aqui</a></p><p>Para dúvidas sobre a demonstração, entre em contato com <b>suporte@example.com</b> e informe a sigla da unidade. Todos os dados deste exemplo são fictícios.</p>",
+      "reference_html": "atraso-z02.html"
+    },
+    {
+      "input_file": "ATRASO FUTURO.xlsx",
+      "subject": "Previsão de entrega - PR - NP004M - Z03 - 19/10/2026",
+      "to": "gerente.demo02@example.com;consultor.demo04@example.com;loja.z03@example.com",
+      "cc": "supervisor.demo02@example.com;transportadora.vale@example.com;operacao@example.com; relacionamento@example.com",
+      "html_body": "<p>Prezados, boa tarde!</p><p>Informamos que o veículo que realizará a sua entrega não chegará dentro do horário programado.</p><p>Seguem mais detalhes e a previsão atualizada na tabela abaixo:</p><table border='1' style='border-collapse:collapse; text-align:center;'><tr style='background-color:#E26A23; font-weight:bold;'><td>LOJA</td><td>HORÁRIO PROGRAMADO</td><td>HORAS DE ATRASO</td><td>PREVISÃO ATUALIZADA</td><td>MOTIVO</td></tr><tr style='font-weight:bold;'><td>Z03</td><td>19/10/2026 14:00</td><td>01:00:00</td><td>19/10/2026 15:00</td><td>Morosidade Loja</td></tr></table><p>Realizamos tentativas de contato pelos números 0000000030, 0000000031, 00000002003, porém não obtivemos retorno até o momento.</p><p>Para acompanhar o veículo em tempo real, <a href='https://example.com/rastreamento/np004m'>clique aqui</a></p><p>Para dúvidas sobre a demonstração, entre em contato com <b>suporte@example.com</b> e informe a sigla da unidade. Todos os dados deste exemplo são fictícios.</p>",
+      "reference_html": "atraso-z03.html"
+    },
+    {
+      "input_file": "TABELA GERAL.xlsx",
+      "subject": "RCS NÃO UTILIZADO - NE - AL005M - 19/10/2026",
+      "to": "transportadora.horizonte@example.com",
+      "cc": "operacao@example.com",
+      "html_body": "<p>Prezados,</p><p>Para conhecimento, identificamos que o RCS não está sendo utilizado no mobile.</p><p>Rota: AL005M</p>",
+      "reference_html": "mobile-al005m.html"
+    },
+    {
+      "input_file": "TABELA GERAL.xlsx",
+      "subject": "RCS NÃO UTILIZADO - PR - NP006M - 19/10/2026",
+      "to": "transportadora.vale@example.com",
+      "cc": "operacao@example.com",
+      "html_body": "<p>Prezados,</p><p>Para conhecimento, identificamos que o RCS não está sendo utilizado no mobile.</p><p>Rota: NP006M</p>",
+      "reference_html": "mobile-np006m.html"
+    }
+  ]
+}
